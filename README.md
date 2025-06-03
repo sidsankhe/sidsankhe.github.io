@@ -1,2 +1,1 @@
-# sidsankhe.github.io
-Personal site
+Hi, I'm Sid.
