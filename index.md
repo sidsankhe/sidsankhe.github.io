@@ -1,11 +1,11 @@
-Hello! I am currently a researcher at [Manifold Trading](https://www.manifoldtrading.com/) where I work on a wide variety of systems. Previously I was an undergraduate studying Computer Science (with a focus on systems) and Statistics at the University of Pennsylvania Engineering and Wharton Schools.
+Hello! I am currently a researcher at [Manifold Trading](https://www.manifoldtrading.com/) where I work on a wide variety of systems. Previously, I was an undergraduate studying Computer Science (with a focus on systems) and Statistics at the University of Pennsylvania Engineering and Wharton Schools.
 
 I'm particularly interested in next generation data-intensive systems and spend a fair bit of time thinking about and researching them. To that end, I've been very fortunate to work closely with [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Prof. Vincent Liu](https://vincen.tl/) and [Prof. Qizhen Zhang](https://qizhenzhang.me/) at the University of Pennsylvania [Distributed Systems Lab](https://dsl.cis.upenn.edu/) and the University of Toronto [Far Data Lab](https://fardatalab.org/).  <br>
 
 
 ## Publications
 
-**PD3 : Prefetching Data with DPUs for Disaggregated Memory** <br>
+**PD3: Prefetching Data with DPUs for Disaggregated Memory** <br>
 <u>Sidharth Sankhe</u>, F. Zhang, U. Chonee, S. Lim, J. Hu, J. Li and Q. Zhang <br>
 **NSDI 2026** | To Appear
 
