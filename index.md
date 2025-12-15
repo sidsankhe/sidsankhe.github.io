@@ -19,7 +19,7 @@ T. Luo, K. Ng, Z. P. Khor, <u>Sidharth Sankhe</u>, B. T. Loo and V. Liu<br>
 
 **Optimizing Data-Intensive Systems in Disaggregated Data Centers with Teleport** <br>
 Q. Zhang, X. Chen, <u>Sidharth Sankhe</u>, Z. Zheng, K. Zhong, S. Angel, A. Chen, V. Liu and B. T. Loo<br>
-**SIGMOD 2026** | [paper](https://dl.acm.org/doi/pdf/10.1145/3514221.3517856)
+**SIGMOD 2022** | [paper](https://dl.acm.org/doi/pdf/10.1145/3514221.3517856)
 
 
 ## Teaching  
