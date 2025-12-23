@@ -15,7 +15,7 @@ H. Nagda, <u>Sidharth Sankhe</u>, S. Sinha, K. Attarha, M. J. Amiri and B. T. Lo
 
 **Multiplexed Heterogeneous LLM Serving via Stage-Aligned Parallelism** <br>
 T. Luo, K. Ng, Z. P. Khor, <u>Sidharth Sankhe</u>, B. T. Loo and V. Liu<br>
-**SoCC 2025** 
+**SoCC 2025**  | [paper](https://vincen.tl/files/luo25paraflex.pdf)
 
 **Optimizing Data-Intensive Systems in Disaggregated Data Centers with Teleport** <br>
 Q. Zhang, X. Chen, <u>Sidharth Sankhe</u>, Z. Zheng, K. Zhong, S. Angel, A. Chen, V. Liu and B. T. Loo<br>
