@@ -1,9 +1,17 @@
+---
+description: Interested in CS Research
+---
+
 Hello! I am currently a researcher at [Manifold Trading](https://www.manifoldtrading.com/) where I work on a wide variety of systems. Previously, I was an undergraduate studying Computer Science (with a focus on systems) and Statistics at the University of Pennsylvania Engineering and Wharton Schools.
 
 I'm particularly interested in next generation data-intensive systems and spend a fair bit of time thinking about and researching them. To that end, I've been very fortunate to work closely with [Prof. Boon Thau Loo](https://boonloo.cis.upenn.edu/), [Prof. Vincent Liu](https://vincen.tl/) and [Prof. Qizhen Zhang](https://qizhenzhang.me/) at the University of Pennsylvania [Distributed Systems Lab](https://dsl.cis.upenn.edu/) and the University of Toronto [Far Data Lab](https://fardatalab.org/).  <br>
 
 
 ## Publications
+
+**dpKernels: Harvesting DPU Compute Resources for Data-path Efficiency in Cloud Data Processing** <br>
+J. Hu, K. Zheng, A. Li, <u>Sidharth Sankhe</u>, P. A. Bernstein and Q. Zhang <br>
+**VLDB 2026** | To Appear
 
 **PD3: Prefetching Data with DPUs for Disaggregated Memory** <br>
 <u>Sidharth Sankhe</u>, F. Zhang, U. Chonee, S. Lim, J. Hu, J. Li and Q. Zhang <br>
@@ -32,4 +40,4 @@ Q. Zhang, X. Chen, <u>Sidharth Sankhe</u>, Z. Zheng, K. Zhong, S. Angel, A. Chen
 **Teaching Assistant**, Mathematical Foundations of CS **CIS 160**, Penn <br>
 **Teaching Assistant**, Programming Languages and Tech. **CIS 120**, Penn <br>
 
-(Last update: Dec. 15, 2025)
+(Last update: Apr. 26, 2026)
